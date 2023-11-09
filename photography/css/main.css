@@ -1,0 +1,71 @@
+body {
+      color: black;
+      background-color: white;
+      text-align: center;
+}
+
+h1 {
+        font-family: 'Times New Roman', Times, serif;
+        margin-right: auto;
+}      
+ p{
+      width: 500px;
+      margin-left: auto;
+      margin-right: auto;
+      font-family: Verdana, sans-serif;
+      text-align: center;
+}
+
+span {
+      color: darkblue;
+      font-size: 20px;
+}
+
+ol {
+      list-style-type: upper-roman;
+}
+
+li {
+      list-style-position: inside;
+      
+}
+
+h2 {
+      
+      margin-right: auto;
+      block-size: auto;
+      
+}
+
+header {
+      
+      color: black;
+      padding: 10px;
+      font-size: large ;
+     
+}
+
+nav {
+      background-color: whitesmoke;
+      color: black;
+      padding: 10px;
+      text-align: center;
+}
+
+
+     
+
+
+
+
+
+
+
+     
+      
+
+
+
+
+
+
